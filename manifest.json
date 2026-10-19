@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "appId": "7bed4fbb-82a6-44af-9cd8-e11b067cca82",
+  "latestVersion": "21.4.3.0",
+  "releaseDate": "2026-10-19",
+  "minimumBcVersion": "26.0.0.0",
+  "severity": "recommended",
+  "title": "Robo Commodity 365 21.4.3.0 is available",
+  "message": "This version improves contract settlement and fixes several posting issues.",
+  "releaseNotesUrl": "https://www.robosoftsolutions.example/robo-commodity-365/release-notes/21.4.3.0",
+  "localized": {
+    "de-DE": {
+      "title": "Robo Commodity 365 21.4.3.0 ist verfügbar",
+      "message": "Diese Version verbessert die Kontraktabrechnung und behebt mehrere Buchungsfehler."
+    },
+    "fr": {
+      "title": "Robo Commodity 365 21.4.3.0 est disponible",
+      "message": "Cette version améliore le règlement des contrats et corrige plusieurs erreurs de validation."
+    }
+  }
+}
